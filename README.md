@@ -28,11 +28,11 @@ The slideshow is built using the following technologies:
 
 To use this slideshow in your project, visit:
 
-## <a href="https://jvcodes.com/image-slideshow-in-html-and-css/" >Image Slideshow JV Source Code</a>
+## <a href="https://jvcodes.com/image-slideshow-in-html-and-css/">Image Slideshow JV Source Code</a>
 
 ## Video Preview
 
-[![Watch the video](https://img.youtube.com/vi/Uz5zErrvPKw/0.jpg)](https://www.youtube.com/watch?v=Uz5zErrvPKw)
+[![Watch the video](https://img.youtube.com/vi/u0oPmbPoY1g/0.jpg)](https://www.youtube.com/watch?v=u0oPmbPoY1g)
 
 ## Contributing
 
